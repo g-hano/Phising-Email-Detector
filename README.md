@@ -1,5 +1,3 @@
-Sure! Here's an example README.md file for your Python project:
-
 # Email Classification
 
 This project is a Python-based email classification system that uses machine learning techniques to classify emails as either safe or phishing emails.
